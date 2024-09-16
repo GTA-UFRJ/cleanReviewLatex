@@ -1,4 +1,3 @@
- OpenAI o1-preview
 import sys
 import re
 
